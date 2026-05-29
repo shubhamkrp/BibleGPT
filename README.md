@@ -137,6 +137,8 @@ Benefits:
 * improves theological consistency
 * improves citation accuracy
 
+OpenBible.json taken from [here](https://github.com/churchstudio-org/openbible/blob/main/KJV/bible.json)
+
 [DRIVE LINK FOR FAISS INDEX](https://drive.google.com/file/d/1gPU9rS5NCUFgCK5sOwn86u7IkJFuL-Wf/view?usp=drive_link)
 
 ---
