@@ -202,6 +202,7 @@ Prevents generation of:
 # Hallucination Detection
 
 One of the main goals of BibleGPT is preventing fabricated Scripture.
+Using BibleAPI: [link](https://bible-api.com/)
 
 ## Detection Pipeline
 
