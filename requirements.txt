@@ -1,0 +1,9 @@
+--extra-index-url https://abetlen.github.io/llama-cpp-python/whl/cpu
+llama-cpp-python
+faiss-cpu
+sentence-transformers
+requests
+gradio
+huggingface_hub
+detoxify
+torch
