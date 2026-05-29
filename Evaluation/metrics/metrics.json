@@ -1,0 +1,10 @@
+{
+  "total": 18,
+  "passed": 17,
+  "refusal_success": 17,
+  "hallucination_failures": 0,
+  "balance_success": 0,
+  "overall_accuracy": 94.44,
+  "hallucination_rate": 0.0,
+  "refusal_accuracy": 94.44
+}
